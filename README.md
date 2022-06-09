@@ -89,6 +89,9 @@ EXPLICACION DEL PROCEDIMIENTO
 
 ![image](https://user-images.githubusercontent.com/105386939/172768676-fb5d7f5f-91f7-450c-917b-d8e5730a0772.png)
 
+![image](https://user-images.githubusercontent.com/105386939/172841813-305e92f9-f18e-4997-af1c-03215036d704.png)
+
+
 • A continuacion se hicieron los calculos de los voltajes que se dan en los nodos principales A y B, utlizando leyes de volatje de Kirchoff y resolviendo el sistema de ecuaciones obtenemos estos valores
 
 ![image](https://user-images.githubusercontent.com/105386939/172768734-b2fa5abd-04cd-4232-8c00-80ac6842acea.png)
@@ -102,16 +105,18 @@ EXPLICACION DEL PROCEDIMIENTO
 ![image](https://user-images.githubusercontent.com/105386939/172770366-ce9f50a3-bf56-4538-b49c-1b0a90a3be9f.png)
 
 
-
 ![girada](https://user-images.githubusercontent.com/105386939/172770396-01edc8e7-ef42-4f75-a205-8cca0bad39ce.jpeg)
 
-
-
-
 ![girada2](https://user-images.githubusercontent.com/105386939/172770399-2d966157-0a8b-46f4-b64f-7fb8e2285638.jpeg)
+
 CALCULO DE ERROR
 
+![image](https://user-images.githubusercontent.com/105386939/172842027-f4a099a9-0c52-4107-818f-486cf323ede3.png)
+
+
 VIDEO
+
+https://youtu.be/yI0l5F0HV9Q
 
 CONCLUSIONES
 
