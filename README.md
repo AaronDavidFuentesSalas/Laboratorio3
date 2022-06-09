@@ -109,6 +109,13 @@ EXPLICACION DEL PROCEDIMIENTO
 
 
 ![girada2](https://user-images.githubusercontent.com/105386939/172770399-2d966157-0a8b-46f4-b64f-7fb8e2285638.jpeg)
+CALCULO DE ERROR
+
+VIDEO
+
+CONCLUSIONES
+
+• Analizando los valores que se obtuvieron en el simulador con la ayuda del programa Tinkercad podemos ver y comparar nuestro resultados, estos valores no coinciden pero se aproximan, esto se debe a que siempre va a existir cierto porcentaje de error causado por: diferentes valores en la resistencias, los voltajes, y ciertas perdidas de precision que pueden ser causadas por el multimetro, pero se pudo observar que los voltajes en estos nodos A y B, no analizamos los valores de los nodos de las esquinas de las fuentes de voltaje ya que estos nodos reciben una corriente directa sin impedimentos por lo que es igual al voltaje de la fuente.
 
 
 BIBLIOGRAFIAS
